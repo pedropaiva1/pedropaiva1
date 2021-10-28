@@ -7,7 +7,7 @@
 
 - 👨‍💻 My current portfolio are available at [pedropaiva.pro](https://pedropaiva-com/br.vercel.app/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Java**
 
 ---
 
