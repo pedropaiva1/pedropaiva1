@@ -1,7 +1,7 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Paiva</h1>
 
 
-- 🔥 Junior Web Developer 
+- 🔥 Web Developer 
 
 - 🔭 I’m currently working on [Canopus](http://www.canopusonline.com/)
 
