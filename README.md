@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Canopus](http://www.canopusonline.com/)
 
-- 👨‍💻 My current portfolio are available at [pedropaiva.pro](https://pedropaiva.dev.br)
+- 👨‍💻 My current portfolio are available at [pedropaiva.dev.br](https://pedropaiva.dev.br)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Java and AWS**
 
