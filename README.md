@@ -49,7 +49,7 @@ I'm always looking for new challenges, building a profile of leadership and team
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
  
-## 🧒 &nbsp;Social Links
+## 🧒 &nbsp;Social 
 
 <a href="https://www.linkedin.com/in/pedro-paiva-015/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
