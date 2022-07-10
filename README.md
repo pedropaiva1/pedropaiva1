@@ -1,7 +1,7 @@
 <h1 align="left">Hi dear, I'm Pedro Paiva</h1>
 
 
-- 🔥 Software Engineer
+- 🔥 Software Engineer Pl.
 
 - 🔭 I’m currently working on [Canopus](http://www.canopusonline.com/)
 
@@ -20,15 +20,6 @@ Experience with Amazon Web Services infrastructure, creation of lambdas function
 Furthermore, I have considerable experience in Monoliths developed with Microsoft technology (.NET 5), and Git domain for code versioning. I have experience with viewing logs with ElasticSearch, and monitoring using NewRelic.
 
 I'm always looking for new challenges, building a profile of leadership and team confidence. 👨‍💻
-
----
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedropaiva1&show_icons=true&theme=vision-friendly-dark" alt="Pedro's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaiva1&layout=compact&theme=vision-friendly-dark" alt="Pedro's most languages"/>
-</p> 
 
 ---
 
@@ -59,5 +50,3 @@ I'm always looking for new challenges, building a profile of leadership and team
 </a>
 
 ---
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
