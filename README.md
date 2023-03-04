@@ -3,7 +3,7 @@
 
 - 🔥 Software Engineer.
 
-- 🐝 I’m currently working on [IBM](http://www.canopusonline.com/)
+- 🐝 I’m currently working on [IBM](https://www.ibm.com/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Java and AWS**
 
