@@ -1,11 +1,9 @@
 <h1 align="left">Hi dear, I'm Pedro Paiva</h1>
 
 
-- 🔥 Software Engineer Pl.
+- 🔥 Software Engineer.
 
-- 🔭 I’m currently working on [Canopus](http://www.canopusonline.com/)
-
-- 👨‍💻 My current portfolio are available at [pedropaiva.dev.br](https://pedropaiva.dev.br)
+- 🐝 I’m currently working on [IBM](http://www.canopusonline.com/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Java and AWS**
 
