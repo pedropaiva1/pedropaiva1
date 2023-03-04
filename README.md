@@ -9,8 +9,6 @@
 
 - 🐝 I’m currently working on [IBM](https://www.ibm.com/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Java and AWS**
-
 ## About my work
 
 I'm currently working in the area of software development focused on solutions for microservices hosted in the cloud (AWS), with high criticality and availability. This system is responsible for managing the lifecycle of more than 30 million subscriptions and processing millions of transactions per day.
