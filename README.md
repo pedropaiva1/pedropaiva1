@@ -19,7 +19,7 @@ Experience with Amazon Web Services infrastructure, creation of lambdas function
 
 Furthermore, I have considerable experience in Monoliths developed with Microsoft technology (.NET 5), and Git domain for code versioning. I have experience with viewing logs with ElasticSearch, and monitoring using NewRelic.
 
-I'm always looking for new challenges, building a profile of leadership and team confidence. 👨‍💻
+I'm always looking for new challenges, building a profile of leadership and team confidence. 
 
 ---
  
