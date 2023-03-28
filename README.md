@@ -5,9 +5,9 @@
 <h1 align="left">Hi dear, I'm Pedro Paiva</h1>
 
 
-- 🔥 Software Engineer.
+-  Software Engineer.
 
-- 🐝 I’m currently working on [IBM](https://www.ibm.com/)
+-  I’m currently working on [IBM](https://www.ibm.com/)
 
 ## About my work
 
@@ -23,7 +23,7 @@ I'm always looking for new challenges, building a profile of leadership and team
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,7 +40,7 @@ I'm always looking for new challenges, building a profile of leadership and team
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
  
-## 🧒 &nbsp;Social 
+## Social 
 
 <a href="https://www.linkedin.com/in/pedro-paiva-015/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
