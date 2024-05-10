@@ -11,9 +11,12 @@
 
 ## About my work
 
-I'm currently working in the area of software development focused on solutions for microservices hosted in the cloud (AWS), with high criticality and availability. This system is responsible for managing the lifecycle of more than 30 million subscriptions and processing millions of transactions per day.
+I'm currently working in the area of software development focused on solutions for microservices hosted in the cloud (AWS) to Itaú Unibanco in Brazil, with high criticality and availability. This system is responsible for managing the lifecycle of more than 30 million subscriptions and processing millions of transactions per day.
 
-I'm always looking for new challenges, building a profile of leadership and team confidence. 
+I'm always looking for new challenges, building a profile of leadership and team confidence.
+
+![image](https://github.com/pedropaiva1/pedropaiva1/assets/54330692/19d0ebba-47ac-4cad-8e0f-5b12cca34282)
+
 
 ---
  
