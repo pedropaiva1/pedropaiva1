@@ -18,9 +18,19 @@ I'm always looking for new challenges, building a profile of leadership and team
 ![image](https://github.com/pedropaiva1/pedropaiva1/assets/54330692/19d0ebba-47ac-4cad-8e0f-5b12cca34282)
 
 
----
- 
-## Social 
+## Companies I worked with
+<div>
+<img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
+<img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
+<img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png"/>
+
+
+## Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+## Social
 
 <a href="https://www.linkedin.com/in/pedro-paiva-015/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -28,5 +38,3 @@ I'm always looking for new challenges, building a profile of leadership and team
 <a href="mailto: pedro.paivahmp@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=gmail" alt="linkedin"/>
 </a>
-
----
