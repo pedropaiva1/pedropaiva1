@@ -53,3 +53,4 @@ I'm always looking for new challenges, building a profile of leadership and team
 <a href="mailto: pedro.paivahmp@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=gmail" alt="linkedin"/>
 </a>
+
