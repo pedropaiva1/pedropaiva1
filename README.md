@@ -3,7 +3,7 @@
 
 -  Software Engineer.
 
--  I’m currently working on [Invillia](https://www.invillia.ai/)
+-  I’m currently working at [Invillia](https://www.invillia.ai/)
 
 ## About my work
 
