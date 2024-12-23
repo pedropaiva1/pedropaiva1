@@ -14,11 +14,12 @@ I'm always looking for new challenges, building a profile of leadership and team
 <img src="https://certificates.cs50.io/3e62ce53-3a63-4cbf-b831-b6dc7f3204da.png?size=letter" width="1000" height="723" alt="Uma bela imagem">
 </div>
 
-## Companies I worked with
+## Companies I've worked with
 <div>
 <img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
 <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png"/>
+<img height="100px" src="https://factorialhr.com.br/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F58969%2F1716461899-wellhub-logo.png"/>
 
 
 ## Badges
