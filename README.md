@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://ibm.com" target="blank"><img src="https://user-images.githubusercontent.com/54330692/222873278-c4c5a977-d567-45cc-a8f5-a038385db09e.png" alt="Nest Logo" /></a>
-</p>
-
 <h1 align="left">Hi, I'm Pedro Paiva</h1>
 
 
