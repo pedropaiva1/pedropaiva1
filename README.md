@@ -7,8 +7,6 @@
 
 ## About my work
 
-I'm currently working in the area of software development focused on solutions for microservices hosted in the cloud (AWS) to Itaú Unibanco in Brazil, with high criticality and availability. This system is responsible for managing the lifecycle of more than 30 million subscriptions and processing millions of transactions per day.
-
 I'm always looking for new challenges, building a profile of leadership and team confidence.
 <div align="center">
 <img src="https://certificates.cs50.io/3e62ce53-3a63-4cbf-b831-b6dc7f3204da.png?size=letter" width="1000" height="723" alt="Uma bela imagem">
