@@ -18,6 +18,7 @@ I'm always looking for new challenges, building a profile of leadership and team
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
 <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png"/>
 <img height="100px" src="https://factorialhr.com.br/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F58969%2F1716461899-wellhub-logo.png&w=3840&q=75"/>
+<img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YyV9gA1v-UmGbKUyY-0q12L-FhuudobY8fhI6gr1GWDkBiLdyFZgp-DyUqncc51YKo0&usqp=CAU&w=3840&q=75"/>
 
 
 ## Badges
