@@ -5,9 +5,8 @@
 
 -  I’m currently working at [Invillia](https://www.invillia.ai/)
 
-## About my work
+I'm always looking for new challenges, working on building leadership skills and trust within my team.
 
-I'm always looking for new challenges, building a profile of leadership and team confidence.
 <div align="center">
 <img src="https://certificates.cs50.io/3e62ce53-3a63-4cbf-b831-b6dc7f3204da.png?size=letter" width="1000" height="723" alt="Uma bela imagem">
 </div>
