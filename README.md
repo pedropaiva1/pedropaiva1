@@ -1,8 +1,6 @@
 <h1 align="left">Hi, I'm Pedro Paiva</h1>
 
--  Software Engineer.
-
--  I’m currently working at [Invillia](https://www.invillia.ai/)
+Software Developer. Currently working at [Invillia.ai](https://www.invillia.ai/)
 
 I'm always looking for new challenges!
 
@@ -42,10 +40,8 @@ I'm always looking for new challenges!
 
 ## Social
 
-<a href="https://www.linkedin.com/in/pedro-paiva-015/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=linkedIn" alt="linkedin"/>
-</a>
-<a href="mailto: pedro.paivahmp@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=gmail" alt="email"/>
-</a>
+[![Linktree](https://img.shields.io/badge/Linktree-34A853?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/pedropaiva1)
+
+
+![](https://github.com/sindresorhus/sindresorhus/raw/main/counter.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge1.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge4.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge5.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge6.gif)
 
