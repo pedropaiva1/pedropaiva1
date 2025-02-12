@@ -1,15 +1,10 @@
 <h1 align="left">Hi, I'm Pedro Paiva</h1>
 
-
 -  Software Engineer.
 
 -  I’m currently working at [Invillia](https://www.invillia.ai/)
 
-I'm always looking for new challenges, working on building leadership skills and trust within my team.
-
-<div align="center">
-<img src="https://certificates.cs50.io/3e62ce53-3a63-4cbf-b831-b6dc7f3204da.png?size=letter" width="1000" height="723" alt="Uma bela imagem">
-</div>
+I'm always looking for new challenges!
 
 ## Companies I've worked with
 <div>
@@ -19,6 +14,10 @@ I'm always looking for new challenges, working on building leadership skills and
 <img height="100px" src="https://factorialhr.com.br/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F58969%2F1716461899-wellhub-logo.png&w=3840&q=75"/>
 <img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YyV9gA1v-UmGbKUyY-0q12L-FhuudobY8fhI6gr1GWDkBiLdyFZgp-DyUqncc51YKo0&usqp=CAU&w=3840&q=75"/>
 
+## I finished Harvard CS50, click and see my certificate.
+<a href="https://certificates.cs50.io/3e62ce53-3a63-4cbf-b831-b6dc7f3204da.pdf?size=letter" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/qUVcTXu4PQFxCCYfixb5meMF4W1op-zpDzId5wJ6wzTwFZ0kwa1i0hgttjKoxXH5a7g" width="110" height="110"/>
+<a/>
 
 ## Badges
 
@@ -44,9 +43,9 @@ I'm always looking for new challenges, working on building leadership skills and
 ## Social
 
 <a href="https://www.linkedin.com/in/pedro-paiva-015/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=linkedIn" alt="linkedin"/>
 </a>
 <a href="mailto: pedro.paivahmp@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=gmail" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-pedropaiva1-05122A?style=flat&logo=gmail" alt="email"/>
 </a>
 
