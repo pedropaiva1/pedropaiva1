@@ -41,7 +41,7 @@ I'm always looking for new challenges!
 ## Social
 
 [![Linktree](https://img.shields.io/badge/Linktree-34A853?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/pedropaiva1)
-
+[![Resume](https://img.shields.io/badge/Resume-34B853?style=for-the-badge&logo=reactiveresume&logoColor=white)](https://rxresu.me/pedropaiva1/pedro-paiva-resume-portuguese)
 
 ![](https://github.com/sindresorhus/sindresorhus/raw/main/counter.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge1.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge4.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge5.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge6.gif)
 
