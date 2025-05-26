@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Pedro Paiva</h1>
 
-Software Developer. Currently working at [Invillia.ai](https://www.invillia.ai/)
+Software Developer. Currently working at [Itaú Unibanco](https://itau.com.br)
 
 I'm always looking for new challenges!
 
