@@ -12,7 +12,7 @@ I'm always looking for new challenges!
 <img height="100px" src="https://factorialhr.com.br/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F58969%2F1716461899-wellhub-logo.png&w=3840&q=75"/>
 <img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YyV9gA1v-UmGbKUyY-0q12L-FhuudobY8fhI6gr1GWDkBiLdyFZgp-DyUqncc51YKo0&usqp=CAU&w=3840&q=75"/>
 
-## I finished Harvard CS50, click if you want to see my certificate.
+## I finished Harvard CS50, click if you want to see my certificate
 <a href="https://certificates.cs50.io/3e62ce53-3a63-4cbf-b831-b6dc7f3204da.pdf?size=letter" target="_blank">
   <img src="https://play-lh.googleusercontent.com/qUVcTXu4PQFxCCYfixb5meMF4W1op-zpDzId5wJ6wzTwFZ0kwa1i0hgttjKoxXH5a7g" width="110" height="110"/>
 <a/>
