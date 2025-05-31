@@ -1,8 +1,10 @@
-<h1 align="left">Hi, I'm Pedro Paiva</h1>
+<h1 align="left">Hi, I'm Pedro Paiva</h1> 
 
 Software Developer. Currently working at [Itaú Unibanco](https://itau.com.br)
 
 I'm always looking for new challenges!
+
+<img src="https://github.com/pedropaiva1/pedropaiva1/blob/master/CACHORRO%20kkkkkkkkkkk.jpeg" width=200 heigth=200/>
 
 ## Companies I've worked with
 <div>
