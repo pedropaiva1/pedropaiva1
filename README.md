@@ -47,3 +47,10 @@ I'm always looking for new challenges!
 
 ![](https://github.com/sindresorhus/sindresorhus/raw/main/counter.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge1.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge4.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge5.gif) ![](https://github.com/sindresorhus/sindresorhus/raw/main/badge6.gif)
 
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
