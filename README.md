@@ -16,7 +16,7 @@ Software Developer, currently working at [Itaú Unibanco](https://itau.com.br).
 <a href="https://certificates.cs50.io/3e62ce53-3a63-4cbf-b831-b6dc7f3204da.pdf?size=letter" target="_blank">
   <img src="https://play-lh.googleusercontent.com/qUVcTXu4PQFxCCYfixb5meMF4W1op-zpDzId5wJ6wzTwFZ0kwa1i0hgttjKoxXH5a7g" width="110" height="110"/>
 <a/>
-
+ 
 ## Badges
 
 <!--START_SECTION:badges-->
