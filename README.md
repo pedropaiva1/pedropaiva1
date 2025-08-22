@@ -20,9 +20,11 @@ Software Developer, currently working at [Itaú Unibanco](https://itau.com.br).
 ## Badges
 
 <!--START_SECTION:badges-->
-[![IBM Consulting Way Habits - Foundational](https://images.credly.com/size/110x110/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png)](http://www.credly.com/badges/81f0933a-5ec0-449b-b079-0f7b6f998e33 "IBM Consulting Way Habits - Foundational")
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/041af425-79c7-430c-be05-fe39929b4864 "AWS Cloud Quest: Cloud Practitioner")
+
+[![AWS Solutions Architect - Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/a1ab61db-98a0-4293-b66c-15fab5a3b614 "AWS Solutions Architect - Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/a3188ccb-e09e-4ac8-8046-ede18f5c071b "AWS Certified Cloud Practitioner")
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/041af425-79c7-430c-be05-fe39929b4864 "AWS Cloud Quest: Cloud Practitioner")
+[![IBM Consulting Way Habits - Foundational](https://images.credly.com/size/110x110/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png)](http://www.credly.com/badges/81f0933a-5ec0-449b-b079-0f7b6f998e33 "IBM Consulting Way Habits - Foundational")
 [![IBM Growth Behaviors](https://images.credly.com/size/110x110/images/d244c828-b281-4669-9b3b-761fdd4ea870/IBM-Growth-Behaviors.png)](http://www.credly.com/badges/0d1c78cf-f25d-48a8-93ce-1ed4e172bd67 "IBM Growth Behaviors")
 [![IBM watsonx.ai Technical Essentials](https://images.credly.com/size/110x110/images/23fa4f52-49e4-4a85-b09e-66d0973e808b/image.png)](http://www.credly.com/badges/bf601652-1d5b-4362-a593-1674f8c6f1d8 "IBM watsonx.ai Technical Essentials")
 [![Banking Industry Jumpstart](https://images.credly.com/size/110x110/images/cb5180ef-bdd3-4c15-a632-b2d8388c221d/Banking-Industry-Jumpstart.png)](http://www.credly.com/badges/3ae1c8a2-883c-4571-9adc-1469c56bc6a4 "Banking Industry Jumpstart")
